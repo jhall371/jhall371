@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhall371
 - 👀 I’m a .NET bootcamp student at Tech Elevator.
-- 🌱 I’m currently working on developing my backend skills.
+- 🌱 I’m currently working on improving my skills as a backend developer.
 - 💞️ I’m looking to collaborate on building a website of community resources for Cuyahoga County.
 - 📫 How to reach me: j.m.hall369@gmail.com
 
