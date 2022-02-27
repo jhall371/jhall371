@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhall371
-- 👀 I’m interested in becoming a software engineer.
-- 🌱 I’m currently learning coding basics.
+- 👀 I’m a .NET bootcamp student at Tech Elevator.
+- 🌱 I’m currently working on developing my backend skills.
 - 💞️ I’m looking to collaborate on building a website of community resources for Cuyahoga County.
 - 📫 How to reach me: j.m.hall369@gmail.com
 
